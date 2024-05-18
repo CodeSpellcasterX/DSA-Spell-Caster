@@ -12,9 +12,7 @@ class Solution {
         // if there is no breaking  point 
         if(ind1==-1){
             reverse(nums,0);
-        }
-        
-        else{
+        } else {
             // step 2 find next greater element and swap with ind2
             for(int i=nums.length-1;i>=0;i--){
                 if(nums[i]>nums[ind1]){
