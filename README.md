@@ -36,8 +36,13 @@ Collection of LeetCode questions to ace the coding interview!
 # String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1078-remove-outermost-parentheses) |
 # Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1078-remove-outermost-parentheses) |
+# Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0151-reverse-words-in-a-string) |
