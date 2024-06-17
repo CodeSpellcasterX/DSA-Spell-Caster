@@ -69,4 +69,13 @@ Collection of LeetCode questions to ace the coding interview!
 # String Matching
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0022-generate-parentheses) |
 | [0812-rotate-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0812-rotate-string) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0022-generate-parentheses) |
+# Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0022-generate-parentheses) |
