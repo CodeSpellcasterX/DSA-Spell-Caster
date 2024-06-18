@@ -79,3 +79,11 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0022-generate-parentheses) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0190-reverse-bits) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0190-reverse-bits) |
