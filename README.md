@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0038-count-and-say) |
 | [0812-rotate-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0812-rotate-string) |
 # Dynamic Programming
 |  |
