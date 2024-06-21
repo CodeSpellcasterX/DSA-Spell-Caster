@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0050-powx-n) |
 | [2032-largest-odd-number-in-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2032-largest-odd-number-in-string) |
 # Greedy
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0043-multiply-strings) |
 | [0812-rotate-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0812-rotate-string) |
 # Dynamic Programming
 |  |
@@ -93,3 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0050-powx-n) |
+# Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0043-multiply-strings) |
