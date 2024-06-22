@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 # Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0038-count-and-say](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0043-multiply-strings) |
 | [0812-rotate-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0812-rotate-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 # Dynamic Programming
 |  |
 | ------- |
