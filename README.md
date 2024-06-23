@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1370-count-number-of-nice-subarrays](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1646-kth-missing-positive-number) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0050-powx-n) |
+| [1370-count-number-of-nice-subarrays](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2032-largest-odd-number-in-string) |
 # Greedy
 |  |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0205-isomorphic-strings) |
+| [1370-count-number-of-nice-subarrays](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1370-count-number-of-nice-subarrays) |
 # String Matching
 |  |
 | ------- |
@@ -104,3 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0043-multiply-strings) |
+# Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1370-count-number-of-nice-subarrays) |
