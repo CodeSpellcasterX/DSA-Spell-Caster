@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0278-first-bad-version) |
 | [0907-koko-eating-bananas](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -111,3 +112,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1370-count-number-of-nice-subarrays) |
+# Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0278-first-bad-version) |
