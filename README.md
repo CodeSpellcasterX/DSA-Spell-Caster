@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0046-permutations) |
 # Divide and Conquer
 |  |
 | ------- |
