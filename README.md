@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0219-contains-duplicate-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0219-contains-duplicate-ii) |
 | [0907-koko-eating-bananas](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1370-count-number-of-nice-subarrays) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0219-contains-duplicate-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1370-count-number-of-nice-subarrays) |
 # String Matching
 |  |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0219-contains-duplicate-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1370-count-number-of-nice-subarrays) |
 # Interactive
 |  |
