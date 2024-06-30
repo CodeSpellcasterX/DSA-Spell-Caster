@@ -121,3 +121,14 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0278-first-bad-version) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0260-single-number-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0260-single-number-iii) |
+<!---LeetCode Topics End-->
