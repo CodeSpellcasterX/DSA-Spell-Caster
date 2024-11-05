@@ -18,7 +18,7 @@ class Solution {
                 }
                 st.push(result);
             } else {
-                st.push(Integer.valueOf(token));
+                st.push(Integer.parseInt(token));
             }
         }
         return st.pop();
