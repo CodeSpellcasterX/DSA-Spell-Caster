@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -175,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0133-clone-graph) |
+## String
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
