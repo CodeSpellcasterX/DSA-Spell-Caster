@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0164-maximum-gap](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0164-maximum-gap) |
 | [0260-single-number-iii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0260-single-number-iii) |
 | [0917-boats-to-save-people](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0917-boats-to-save-people) |
 ## Bit Manipulation
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0164-maximum-gap) |
 | [0917-boats-to-save-people](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0917-boats-to-save-people) |
 ## Depth-First Search
 |  |
@@ -180,4 +182,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
