@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0164-maximum-gap) |
 | [0260-single-number-iii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0260-single-number-iii) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0135-candy) |
 | [0917-boats-to-save-people](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0917-boats-to-save-people) |
 | [1829-maximum-units-on-a-truck](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1829-maximum-units-on-a-truck) |
 ## Sorting
