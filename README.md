@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0394-decode-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0394-decode-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -211,4 +212,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0394-decode-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
