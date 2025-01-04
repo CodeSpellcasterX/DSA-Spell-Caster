@@ -138,11 +138,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0260-single-number-iii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Hash Table
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0160-intersection-of-two-linked-lists) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Linked List
 |  |
 | ------- |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0394-decode-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0394-decode-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bucket Sort
 |  |
@@ -219,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
