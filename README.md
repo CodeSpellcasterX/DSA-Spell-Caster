@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0260-single-number-iii) |
 | [0917-boats-to-save-people](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0917-boats-to-save-people) |
 | [1829-maximum-units-on-a-truck](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1829-maximum-units-on-a-truck) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0394-decode-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0394-decode-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2465-shifting-letters-ii) |
