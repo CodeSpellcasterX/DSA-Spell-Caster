@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0394-decode-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
 |  |
 | ------- |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0917-boats-to-save-people](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0917-boats-to-save-people) |
 | [1502-construct-k-palindrome-strings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1502-construct-k-palindrome-strings) |
 | [1829-maximum-units-on-a-truck](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1829-maximum-units-on-a-truck) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2691-count-vowel-strings-in-ranges) |
