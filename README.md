@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2358-number-of-ways-to-split-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -304,9 +305,14 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Simulation
+|  |
+| ------- |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 <!---LeetCode Topics End-->
