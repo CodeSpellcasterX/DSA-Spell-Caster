@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0394-decode-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0394-decode-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bucket Sort
 |  |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3447-clear-digits) |
 ## Union Find
 |  |
 | ------- |
