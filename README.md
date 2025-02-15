@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1477-product-of-the-last-k-numbers](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
 |  |
 | ------- |
@@ -408,4 +409,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
