@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1477-product-of-the-last-k-numbers](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1524-string-matching-in-an-array) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1829-maximum-units-on-a-truck](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1829-maximum-units-on-a-truck) |
 | [1876-map-of-highest-peak](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -412,5 +413,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
