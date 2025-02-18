@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0160-intersection-of-two-linked-lists) |
 | [0952-word-subsets](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0394-decode-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0394-decode-string) |
 | [0952-word-subsets](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1160-letter-tile-possibilities) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1524-string-matching-in-an-array) |
@@ -341,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1502-construct-k-palindrome-strings) |
@@ -413,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
