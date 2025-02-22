@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0394-decode-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0394-decode-string) |
 | [0952-word-subsets](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1160-letter-tile-possibilities) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1502-construct-k-palindrome-strings) |
@@ -312,12 +314,14 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0144-binary-tree-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0144-binary-tree-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Recursion
 |  |
