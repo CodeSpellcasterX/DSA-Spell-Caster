@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1477-product-of-the-last-k-numbers](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1524-string-matching-in-an-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1829-maximum-units-on-a-truck](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1829-maximum-units-on-a-truck) |
 | [1876-map-of-highest-peak](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1876-map-of-highest-peak) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1477-product-of-the-last-k-numbers](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
@@ -341,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2145-grid-game) |
@@ -452,4 +455,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
