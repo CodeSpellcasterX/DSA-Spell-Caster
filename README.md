@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0260-single-number-iii) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0854-making-a-large-island) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0917-boats-to-save-people](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0952-word-subsets) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0133-clone-graph](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0160-intersection-of-two-linked-lists) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1160-letter-tile-possibilities) |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
