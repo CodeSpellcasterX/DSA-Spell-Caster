@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2792-neighboring-bitwise-xor) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2448-count-number-of-bad-pairs](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0160-intersection-of-two-linked-lists) |
 | [0917-boats-to-save-people](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0917-boats-to-save-people) |
 | [2551-apply-operations-to-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
 | ------- |
