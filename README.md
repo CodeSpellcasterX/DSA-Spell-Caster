@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0854-making-a-large-island) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0572-subtree-of-another-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0572-subtree-of-another-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -372,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -386,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0572-subtree-of-another-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
