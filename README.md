@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0160-intersection-of-two-linked-lists) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0394-decode-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0394-decode-string) |
 | [0952-word-subsets](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -497,4 +499,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
