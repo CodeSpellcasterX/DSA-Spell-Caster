@@ -6,11 +6,8 @@ class Solution {
 
         for(int j = 0; j < s.length(); j++) {
             char ch = s.charAt(j);
-            if(set.contains(ch)) {
-                while(s.charAt(i)!=ch) {
-                    set.remove(s.charAt(i));
-                    i++;
-                }
+            while (set.contains(ch)) {
+                set.remove(s.charAt(i));
                 i++;
             }
             set.add(ch);
