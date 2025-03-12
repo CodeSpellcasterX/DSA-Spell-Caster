@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0164-maximum-gap) |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0130-surrounded-regions](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0130-surrounded-regions](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0133-clone-graph) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0684-redundant-connection) |
@@ -436,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0854-making-a-large-island) |
@@ -464,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1396-count-servers-that-communicate) |
