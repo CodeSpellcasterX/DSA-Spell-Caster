@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2107-find-unique-binary-string) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2145-grid-game](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2465-shifting-letters-ii) |
@@ -539,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3643-zero-array-transformation-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
@@ -546,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
