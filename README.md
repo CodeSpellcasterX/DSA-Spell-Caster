@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0260-single-number-iii) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0733-flood-fill) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0164-maximum-gap) |
+| [0215-kth-largest-element-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0215-kth-largest-element-in-an-array) |
 | [0917-boats-to-save-people](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0917-boats-to-save-people) |
 | [1829-maximum-units-on-a-truck](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1829-maximum-units-on-a-truck) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2434-design-a-number-container-system) |
@@ -508,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Dynamic Programming
 |  |
@@ -536,4 +540,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2610-closest-prime-numbers-in-range) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
