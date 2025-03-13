@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0917-boats-to-save-people](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0952-word-subsets) |
+| [1014-k-closest-points-to-origin](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1014-k-closest-points-to-origin) |
 | [1364-tuple-with-same-product](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1477-product-of-the-last-k-numbers) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1014-k-closest-points-to-origin](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1014-k-closest-points-to-origin) |
 | [1477-product-of-the-last-k-numbers](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0164-maximum-gap](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0215-kth-largest-element-in-an-array) |
 | [0917-boats-to-save-people](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0917-boats-to-save-people) |
+| [1014-k-closest-points-to-origin](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1014-k-closest-points-to-origin) |
 | [1829-maximum-units-on-a-truck](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1829-maximum-units-on-a-truck) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -437,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0407-trapping-rain-water-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1014-k-closest-points-to-origin) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -513,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1014-k-closest-points-to-origin](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -544,4 +549,9 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
