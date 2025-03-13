@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3429-special-array-i](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2358-number-of-ways-to-split-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3643-zero-array-transformation-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -520,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [3643-zero-array-transformation-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
 | ------- |
