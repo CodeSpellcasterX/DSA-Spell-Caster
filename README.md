@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0260-single-number-iii) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0407-trapping-rain-water-ii) |
+| [0419-battleships-in-a-board](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0854-making-a-large-island) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0419-battleships-in-a-board](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0419-battleships-in-a-board) |
 | [0572-subtree-of-another-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0695-max-area-of-island) |
@@ -453,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0130-surrounded-regions](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0407-trapping-rain-water-ii) |
+| [0419-battleships-in-a-board](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0854-making-a-large-island) |
