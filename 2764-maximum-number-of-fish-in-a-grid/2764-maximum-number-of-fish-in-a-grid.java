@@ -1,99 +1,51 @@
 class Solution {
-
-    // Helper function to find the root of a component
-    private int findParent(int[] parent, int cellIndex) {
-        if (parent[cellIndex] == cellIndex) {
-            return cellIndex;
-        }
-        return parent[cellIndex] = findParent(parent, parent[cellIndex]); // Path compression
-    }
-
-    // Helper function to union two components
-    private void unionComponents(
-        int[] parent,
-        int[] componentSize,
-        int[] totalFish,
-        int cellIndex1,
-        int cellIndex2
-    ) {
-        int root1 = findParent(parent, cellIndex1);
-        int root2 = findParent(parent, cellIndex2);
-
-        if (root1 != root2) {
-            // Union by size to optimize tree height
-            if (componentSize[root1] < componentSize[root2]) {
-                int temp = root1;
-                root1 = root2;
-                root2 = temp;
-            }
-            parent[root2] = root1;
-            componentSize[root1] += componentSize[root2];
-            totalFish[root1] += totalFish[root2];
-        }
-    }
-
     public int findMaxFish(int[][] grid) {
-        int rowCount = grid.length, columnCount = grid[0].length;
-        int totalCells = rowCount * columnCount;
-
-        // Initialize Union-Find structures
-        int[] parent = new int[totalCells];
-        int[] componentSize = new int[totalCells];
-        int[] totalFish = new int[totalCells];
-
-        for (int cellIndex = 0; cellIndex < totalCells; cellIndex++) {
-            parent[cellIndex] = cellIndex; // Set initial parent for each cell
-            componentSize[cellIndex] = 1; // Set initial size for each cell component
-        }
-
-        // Set initial fish count for each cell
-        for (int row = 0; row < rowCount; row++) {
-            for (int column = 0; column < columnCount; column++) {
-                int cellIndex = row * columnCount + column;
-                totalFish[cellIndex] = grid[row][column];
-            }
-        }
-
-        // Direction vectors for neighbors (right, left, down, up)
-        int[] deltaRow = { 0, 0, 1, -1 }, deltaColumn = { 1, -1, 0, 0 };
-
-        // Merge connected components
-        for (int row = 0; row < rowCount; row++) {
-            for (int column = 0; column < columnCount; column++) {
-                if (grid[row][column] > 0) { // Process only water cells with fish
-                    int cellIndex = row * columnCount + column;
-                    for (int direction = 0; direction < 4; direction++) {
-                        int neighborRow = row + deltaRow[direction];
-                        int neighborColumn = column + deltaColumn[direction];
-                        if (
-                            neighborRow >= 0 &&
-                            neighborRow < rowCount &&
-                            neighborColumn >= 0 &&
-                            neighborColumn < columnCount &&
-                            grid[neighborRow][neighborColumn] > 0
-                        ) {
-                            int neighborIndex =
-                                neighborRow * columnCount + neighborColumn;
-                            unionComponents(
-                                parent,
-                                componentSize,
-                                totalFish,
-                                cellIndex,
-                                neighborIndex
-                            );
-                        }
-                    }
+        boolean[][] vis = new boolean[grid.length][grid[0].length];
+        int max = 0;
+        for(int i =0 ;i<grid.length;i++) {
+            for(int j = 0; j < grid[0].length;j++) {
+                if(grid[i][j]!=0 && !vis[i][j]) {
+                    max = Math.max(max, bfs(grid, vis, i, j));
                 }
             }
         }
+        return max;
+    }
 
-        // Find the maximum fish in any component
-        int maxFish = 0;
-        for (int cellIndex = 0; cellIndex < totalCells; cellIndex++) {
-            if (findParent(parent, cellIndex) == cellIndex) { // Check if cellIndex is a root
-                maxFish = Math.max(maxFish, totalFish[cellIndex]);
+    private int bfs(int[][] grid, boolean[][] vis, int i, int j) {
+        Queue<int[]> q = new ArrayDeque<>();
+        int maxArea = grid[i][j];
+        q.add(new int[]{i, j});
+
+        int[] rowArray = {-1, 0, +1, 0};
+        int[] colArray = {0, +1, 0, -1};
+
+        vis[i][j] = true;
+
+        while(!q.isEmpty()) {
+            int[] poll = q.remove();
+            int nodeRow = poll[0];
+            int nodeCol = poll[1];
+
+            for(int k = 0; k < rowArray.length; k++) {
+                int newRow = nodeRow + rowArray[k];
+                int newCol = nodeCol + colArray[k];
+
+                if(isValid(newRow, newCol, grid.length, grid[0].length) && grid[newRow][newCol]!=0 && !vis[newRow][newCol]) {
+                    vis[newRow][newCol] = true;
+                    maxArea = maxArea + grid[newRow][newCol];
+                    q.add(new int[]{newRow, newCol});
+                }
             }
         }
-        return maxFish;
+        return maxArea;
     }
+
+    private boolean isValid(int row, int col, int mr, int mc) {
+        if(row < 0 || row >= mr || col < 0 || col >= mc) {
+            return false;
+        }
+        return true;
+    }
+
 }
