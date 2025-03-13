@@ -11,7 +11,7 @@ class Solution {
                 otherC++;
             }
 
-            while (otherC > k) { 
+            if (otherC > k) { 
                 if (answerKey.charAt(left) != toMax) {
                     otherC--;
                 }
