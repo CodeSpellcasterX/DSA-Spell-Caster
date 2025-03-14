@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0419-battleships-in-a-board](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0735-asteroid-collision) |
 | [0854-making-a-large-island](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0917-boats-to-save-people](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0917-boats-to-save-people) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0394-decode-string) |
+| [0735-asteroid-collision](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0735-asteroid-collision) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -476,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2551-apply-operations-to-an-array) |
