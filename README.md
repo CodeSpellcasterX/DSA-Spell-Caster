@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0952-word-subsets) |
 | [1014-k-closest-points-to-origin](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1014-k-closest-points-to-origin) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1477-product-of-the-last-k-numbers) |
@@ -544,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3643-zero-array-transformation-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
