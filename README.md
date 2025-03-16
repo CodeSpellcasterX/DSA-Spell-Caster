@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2665-minimum-time-to-repair-cars](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -548,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2665-minimum-time-to-repair-cars](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
