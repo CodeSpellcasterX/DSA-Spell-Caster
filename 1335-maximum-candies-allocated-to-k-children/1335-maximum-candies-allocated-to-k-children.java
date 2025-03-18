@@ -5,6 +5,7 @@ class Solution {
         int high = 0;
         int i = 0;
         while(i < candies.length) {
+            low = Math.min(low, candies[i]);
             high = Math.max(high, candies[i]);
             i++;
         }
