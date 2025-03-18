@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2448-count-number-of-bad-pairs](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0260-single-number-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2792-neighboring-bitwise-xor) |
@@ -567,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Number Theory
