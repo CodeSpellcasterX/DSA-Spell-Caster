@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2317-count-collisions-on-a-road](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2317-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3447-clear-digits) |
 ## Greedy
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2317-count-collisions-on-a-road](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2317-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2465-shifting-letters-ii) |
@@ -488,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2317-count-collisions-on-a-road](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2317-count-collisions-on-a-road) |
 | [2551-apply-operations-to-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
