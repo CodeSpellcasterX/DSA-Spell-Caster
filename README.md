@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1927-maximum-ascending-subarray-sum](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2145-grid-game) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2308-divide-array-into-equal-pairs) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2107-find-unique-binary-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2448-count-number-of-bad-pairs) |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2107-find-unique-binary-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2317-count-collisions-on-a-road](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2317-count-collisions-on-a-road) |
@@ -448,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/3455-minimum-length-of-string-after-operations) |
