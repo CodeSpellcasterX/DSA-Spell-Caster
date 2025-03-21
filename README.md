@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2107-find-unique-binary-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2308-divide-array-into-equal-pairs) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2448-count-number-of-bad-pairs) |
@@ -341,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -367,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2107-find-unique-binary-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2107-find-unique-binary-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2317-count-collisions-on-a-road](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2317-count-collisions-on-a-road) |
@@ -524,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Design
 |  |
