@@ -345,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Simulation
 |  |
 | ------- |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Design
@@ -570,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1170-shortest-common-supersequence](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Binary Search Tree
 |  |
 | ------- |
