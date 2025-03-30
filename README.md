@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0160-intersection-of-two-linked-lists) |
+| [0768-partition-labels](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0952-word-subsets) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0768-partition-labels](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0917-boats-to-save-people) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2551-apply-operations-to-an-array) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0135-candy](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0135-candy) |
+| [0768-partition-labels](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0917-boats-to-save-people) |
 | [1502-construct-k-palindrome-strings](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1502-construct-k-palindrome-strings) |
 | [1829-maximum-units-on-a-truck](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1829-maximum-units-on-a-truck) |
@@ -374,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0394-decode-string](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0394-decode-string) |
+| [0768-partition-labels](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1160-letter-tile-possibilities) |
