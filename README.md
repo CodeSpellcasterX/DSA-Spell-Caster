@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0260-single-number-iii) |
+| [0368-largest-divisible-subset](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0695-max-area-of-island) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0368-largest-divisible-subset](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0368-largest-divisible-subset) |
 | [1014-k-closest-points-to-origin](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1014-k-closest-points-to-origin) |
 | [1477-product-of-the-last-k-numbers](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0164-maximum-gap](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0215-kth-largest-element-in-an-array) |
+| [0368-largest-divisible-subset](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0368-largest-divisible-subset) |
 | [0917-boats-to-save-people](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1014-k-closest-points-to-origin) |
 | [1829-maximum-units-on-a-truck](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1829-maximum-units-on-a-truck) |
@@ -609,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0368-largest-divisible-subset) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
