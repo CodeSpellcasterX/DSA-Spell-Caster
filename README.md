@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0260-single-number-iii) |
 | [0368-largest-divisible-subset](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0733-flood-fill) |
@@ -613,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
