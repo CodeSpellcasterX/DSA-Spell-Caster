@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0419-battleships-in-a-board) |
+| [0658-find-k-closest-elements](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0735-asteroid-collision) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0658-find-k-closest-elements](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0917-boats-to-save-people) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0164-maximum-gap](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0368-largest-divisible-subset) |
+| [0658-find-k-closest-elements](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1014-k-closest-points-to-origin) |
 | [1829-maximum-units-on-a-truck](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1829-maximum-units-on-a-truck) |
@@ -523,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0407-trapping-rain-water-ii) |
+| [0658-find-k-closest-elements](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1014-k-closest-points-to-origin) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2434-design-a-number-container-system) |
@@ -635,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0658-find-k-closest-elements](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0658-find-k-closest-elements) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2665-minimum-time-to-repair-cars](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2665-minimum-time-to-repair-cars) |
@@ -644,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/CodeSpellcasterX/DSA-Spell-Caster/tree/master/2134-maximize-the-confusion-of-an-exam) |
